@@ -1,3 +1,1 @@
-# Ali 
-Hello! 
-My new proect.
+# Ali
